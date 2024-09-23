@@ -4,6 +4,9 @@
 www.msaez.io/#/61372486/storming/5fbf29a69f8a7a4fbac0359c13d6cf14
 https://www.msaez.io/#/61372486/storming/ramen
 
+![image](https://github.com/user-attachments/assets/4f7f8aef-212c-403b-a51a-51dec6e9e10a)
+
+
 ## Before Running Services
 ### Make sure there is a Kafka server running
 ```
