@@ -9,7 +9,7 @@ https://www.msaez.io/#/61372486/storming/ramen
 
 
  도메인 주제 : 라면 판매하고 배달하는 업체. <br/>
- 총 3개로 구분 : 라면주문/라면요리/라면배달
+ 총 6개로 구분 : 라면주문/라면요리/라면배달/사용자/리뷰/푸시알림
  
 
 ## Before Running Services
