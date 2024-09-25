@@ -6,7 +6,7 @@ https://www.msaez.io/#/61372486/storming/ramen
 
 
 
-![image](https://github.com/user-attachments/assets/1370366a-0eae-4aee-aff8-870a38aef384)
+![image](https://github.com/user-attachments/assets/a8e21319-bcee-4112-8fdc-c62b3c85ba95)
 
 
  도메인 주제 : 라면 판매하고 배달하는 업체. <br/>
