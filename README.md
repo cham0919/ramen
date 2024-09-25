@@ -21,7 +21,11 @@ https://www.msaez.io/#/61372486/storming/ramen
  5. 배달완료 시, 리뷰작성이 가능하다
  6. 고객은 주문을 취소할 수 있다
  7. 주문 취소 시, 배달도 취소된다
- 
+
+ CheckPoints
+1. 3개 이상의 이벤트 (오렌지색 스티커)를 도출했는가
+2. 도메인에서 사용된 용어 (Ubiqutous Language)를 사용하였는가?
+3. 과거분사형으로 도출되었는가
 
 ## Before Running Services
 ### Make sure there is a Kafka server running
